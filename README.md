@@ -2,11 +2,11 @@
 
 ## 下载链接
 
-[MacOS](https://github.com/v2018z/xueXiQiangguo/tree/main/build/MacOS)
+[MacOS]()
 
-[Windows](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Windows) 
+[Windows]() 
 
-[Linux](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Linux)
+[Linux]()
 
 注意: 原Windows版因为接口失效无法使用，请直接使用免安装版！
 
